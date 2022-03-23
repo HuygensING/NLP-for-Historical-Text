@@ -61,6 +61,10 @@ These issues affect search, string matching, syntactical parsing, and the term f
 - [BlackLab](http://inl.github.io/BlackLab/): open source corpus search engine that supports Corpus Query Language
 
 
+## Meetings
+
+- [22 March 2022](docs/meetings.md)
+
 ## Literature
 
 - Ehrmann, M., Hamdi, A., Pontes, E. L., Romanello, M., & Doucet, A. (2021). *Named Entity Recognition and Classification on Historical Documents: A Survey.* arXiv preprint arXiv:2109.11406.[PDF](https://arxiv.org/pdf/2109.11406)
